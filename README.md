@@ -1,9 +1,9 @@
 # SciFair
 SciFair stuff
 
-# Letter-guesser
+# letter-guesser
 
-### Equipment
+### equipment
 
 * Laser cutter access
 * Measuring tools
