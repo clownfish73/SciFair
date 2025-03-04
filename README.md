@@ -15,3 +15,5 @@ SciFair stuff
 
 A guessing game where you have two people. You give one person a decision tree and you give another person a selection of letters to choose from. They can they take a bunch of measurements of the shape and pass that along as a feature
 
+The Decision Tree just gave up on the other features & decided the only important ones were like holes and sides and symmetry.
+
